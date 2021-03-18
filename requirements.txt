@@ -26,7 +26,7 @@ PasteDeploy==1.5.0
 PasteScript==1.7.5
 py==1.4.20
 py-bcrypt==0.3
-Pygments==1.4
+Pygments==2.7.4
 pyramid==1.5
 pyramid_mako==1.0.1
 pyramid-celery==1.3
